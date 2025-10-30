@@ -34,11 +34,3 @@ It enables **secure video consultations**, **appointment scheduling**, and integ
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to run MediConnect locally 👇  
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/PiyushGupta6688/Doctor-App.git
-cd Doctor-App
